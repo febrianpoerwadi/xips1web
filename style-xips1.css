@@ -1,0 +1,51 @@
+.carousel-caption{
+    font-family: 'Arial', sans-serif;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    color: rgb(255, 255, 255);  
+    font-weight: bold;
+   }
+.page-section{
+   padding: 5rem;
+
+}
+.page-section h2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 10vh;
+}
+.masthead{
+    margin: auto;
+    padding-top: 10rem;
+    padding-bottom: calc(20rem - 4.5rem);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background: linear-gradient(to bottom, #212529 0%, rgba(0, 0, 0, 0.8) 100%), url("");
+}
+.container a{
+    font-size: 3vh;
+}
+.offcanvas-header h5{
+    font-size: 3vh;
+
+}
+.card-body h5{
+    text-align: center;
+}
+.card-body a{
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron{
+    padding: 2rem 1rem;
+}
+.card-text{
+    font-size: small;
+    text-align: center;
+}
+::-webkit-scrollbar{
+    display: none;
+}
