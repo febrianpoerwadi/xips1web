@@ -50,3 +50,11 @@
 ::-webkit-scrollbar{
     display: none;
 }
+.gallery{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.gallery img{
+    border-radius: 10px;
+}
