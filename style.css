@@ -19,7 +19,7 @@
     margin: auto;
     padding-top: 10rem;
     padding-bottom: calc(20rem - 4.5rem);
-    background: linear-gradient(to bottom, #212529 0%, rgba(0, 0, 0, 0.8) 100%), url("bg-cover.jpeg");
+    background: linear-gradient(to bottom, #212529 0%, rgba(0, 0, 0, 0.8) 100%), url("img/kelas.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
